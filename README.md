@@ -80,7 +80,6 @@
 </p> 
 
 
-<h3 align="Center">I am always working to improve</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsyed21&show_icons=true&locale=en" alt="iamsyed21" /></p>

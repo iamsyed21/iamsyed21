@@ -21,12 +21,11 @@
 ```
 <h1 align="center">Hi 👋, I'm Syed Moin Ahmed</h1>
 <h3 align="center">"A passionate developer, skilled in Java and JavaScript full stack, with a knack for creating Android experiences"</h3>
-<img align="right" alt="Coding" width="400" src="https://the21codes.com/webpictures/syedmoinahmed.png">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/iamsyed21/count.svg" />
 </p
-
+<img align="right" alt="Coding" width="400" src="https://the21codes.com/webpictures/syedmoinahmed.png">
 - 🔭 I’m currently working on [Karigars Kart!](https://karigarskart.com/)
 
 - 🌱 I’m currently learning **ExpressJS and Microsoft Excel!**

@@ -22,7 +22,10 @@
 <h1 align="center">Hi 👋, I'm Syed Moin Ahmed</h1>
 <h3 align="center">"A passionate developer, skilled in Java and JavaScript full stack, with a knack for creating Android experiences"</h3>
 <img align="right" alt="Coding" width="400" src="https://the21codes.com/webpictures/syedmoinahmed.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsyed21&label=Profile%20views&color=0e75b6&style=flat" alt="iamsyed21" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iamsyed21/count.svg" />
+</p
 
 - 🔭 I’m currently working on [Karigars Kart!](https://karigarskart.com/)
 

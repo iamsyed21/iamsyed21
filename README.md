@@ -24,7 +24,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/iamsyed21/count.svg" />
-</p
+</p>
 <img align="right" alt="Coding" width="400" src="https://the21codes.com/webpictures/syedmoinahmed.png">
 - 🔭 I’m currently working on [Karigars Kart!](https://karigarskart.com/)
 

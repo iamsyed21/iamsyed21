@@ -40,6 +40,8 @@
 
 - 📫 I promise to respond to you at **syedmoinahmed01@gmail.com**
 
+- 🎧 Let's vibe and code while listening on [Spotify](https://open.spotify.com/playlist/4g4347o08CMSWes05tL6r4?si=6Us5LHdyQRmG6kS_5U_3rg&utm_source=copy-link)
+
 - ⚡ Fun fact **I used ChatGPT🤖 to design this README. Like a lot!**
 
 <h3 align="left">Connect with me:</h3>
@@ -75,7 +77,8 @@
 <h3 align="left">Miscellaneous</h3>
 <p align="center"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+</p> 
+
 
 <h3 align="Center">I am always working to improve</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>

@@ -78,10 +78,15 @@
 </p>
 
 
-<div style="background-color: #1A202C; border-radius: 10px; padding: 20px; overflow: hidden;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>
+<div style="position: relative;">
+  <img src="https://the21codes.com/webpictures/background.png" style="width: 100%; border-radius: 10px;" />
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsyed21&show_icons=true&locale=en" alt="iamsyed21" /></p>
+  <div style="position: absolute; top: 20px; left: 20px;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsyed21&" alt="iamsyed21" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsyed21&show_icons=true&locale=en" alt="iamsyed21" /></p>
+
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsyed21&" alt="iamsyed21" /></p>
+  </div>
 </div>
+

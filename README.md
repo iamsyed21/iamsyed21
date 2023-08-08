@@ -77,16 +77,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<h3 align="Center">I am always working to improve</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>
 
-<div style="position: relative;">
-  <img src="https://the21codes.com/webpictures/background.png" style="width: 100%; border-radius: 10px;" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsyed21&show_icons=true&locale=en" alt="iamsyed21" /></p>
 
-  <div style="position: absolute; top: 20px; left: 20px;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsyed21&show_icons=true&locale=en&layout=compact" alt="iamsyed21" /></p>
-
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsyed21&show_icons=true&locale=en" alt="iamsyed21" /></p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsyed21&" alt="iamsyed21" /></p>
-  </div>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsyed21&" alt="iamsyed21" /></p>
 

@@ -32,9 +32,9 @@
 
 - 🌱 I’m currently learning **ExpressJS and Microsoft Excel!**
 
-- 📄 Know about my projects and my experiences on [My Portfolio]((https://syedmoinahmed.dev/)
+- 📄 Know about my projects and my experiences on [My Portfolio](https://syedmoinahmed.dev/)
 
-- 📝 I regularly write articles on My Website](https://the21codes.com/)
+- 📝 I regularly write articles on [My Website](https://the21codes.com/)
 
 - 💬 Ask me about **React, Android, Java and Spring!**
 

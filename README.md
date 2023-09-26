@@ -34,8 +34,6 @@
 
 - 📄 Know about my projects and my experiences on [My Portfolio](https://syedmoinahmed.dev/)
 
-- 📝 I regularly write articles on [My Website](https://the21codes.com/)
-
 - 💬 Ask me about **React, Android, Java and Spring!**
 
 - 📫 I promise to respond to you at **syedmoinahmed01@gmail.com**

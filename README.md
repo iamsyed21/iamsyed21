@@ -40,7 +40,6 @@
 
 - 🎧 Let's vibe and code while listening on [Spotify](https://open.spotify.com/playlist/4g4347o08CMSWes05tL6r4?si=6Us5LHdyQRmG6kS_5U_3rg&utm_source=copy-link)
 
-- ⚡ Fun fact **I used ChatGPT🤖 to design this README. Like a lot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
